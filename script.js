@@ -9,7 +9,7 @@ const elements = {
 
 // Configuración de la API
 const API_CONFIG = {
-  KEY: "AIzaSyB3TRp7qQoitZGXNdsuWPe-_dFrszbZbzE",
+  KEY: "your-API-here",
   URL: "https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent"
 };
 
